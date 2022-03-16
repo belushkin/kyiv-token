@@ -3,27 +3,27 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 # Federation service provided by StellarID.io
 FEDERATION_SERVER="https://stellarid.io/federation/"
 
-AUTH_SERVER="https://api.domain.com/auth"
-TRANSFER_SERVER="https://api.domain.com"
-SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
-HORIZON_URL="https://horizon.domain.com"
-ACCOUNTS=[
-"GANYZEK2BXQ5DTVSY4MT472YJRKWELHHGK37XTRHD4HNHHEPTYDJGIYL",
-"GC64ZUH5FZTE2YNVW5I7C6XSGJ6POKES5B2FT773NPB2BWNZFWY46LVA"
-]
+# AUTH_SERVER="https://api.domain.com/auth"
+# TRANSFER_SERVER="https://api.domain.com"
+# SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
+# HORIZON_URL="https://horizon.domain.com"
+# ACCOUNTS=[
+# "GANYZEK2BXQ5DTVSY4MT472YJRKWELHHGK37XTRHD4HNHHEPTYDJGIYL",
+# "GC64ZUH5FZTE2YNVW5I7C6XSGJ6POKES5B2FT773NPB2BWNZFWY46LVA"
+# ]
 VERSION="1.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Organization Name"
-ORG_DBA="Organization DBA"
-ORG_URL="https://www.domain.com"
-ORG_LOGO="https://www.domain.com/awesomelogo.png"
-ORG_DESCRIPTION="Description of issuer"
-ORG_PHYSICAL_ADDRESS="123 Sesame Street, New York, NY 12345, United States"
+ORG_NAME="Astraoutsourcing"
+ORG_DBA="Kyiv Token Digital"
+ORG_URL="https://kyiv-token.digital/"
+ORG_LOGO="https://kyiv-token.digital/logo.png"
+ORG_DESCRIPTION="Kyiv token which is used to support Armed Forces of Ukraine"
+ORG_PHYSICAL_ADDRESS="02160, Kyiv, Ukraine, Reheneratorna str. 4"
 ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
 ORG_PHONE_NUMBER="1 (123)-456-7890"
 ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
-ORG_KEYBASE="accountname"
+ORG_KEYBASE="belushkin"
 ORG_TWITTER="orgtweet"
 ORG_GITHUB="orgcode"
 ORG_OFFICIAL_EMAIL="support@domain.com"

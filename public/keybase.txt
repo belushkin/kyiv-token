@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/belushkin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kyiv-token.digital
+  * I am belushkin (https://keybase.io/belushkin) on keybase.
+  * I have a public key ASCX8mu6rYqLQzrLTqwVlEx8UTabj34Eh05sL-ZIjfhFLwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012097f26bbaad8a8b433acb4eac15944c7c51369b8f7e04874e6c2fe6488df8452f0a",
+      "host": "keybase.io",
+      "kid": "012097f26bbaad8a8b433acb4eac15944c7c51369b8f7e04874e6c2fe6488df8452f0a",
+      "uid": "2c2126203d7d12900cc7c937c1ea7219",
+      "username": "belushkin"
+    },
+    "merkle_root": {
+      "ctime": 1647452324,
+      "hash": "82c8b36419fc8e4b034cebde65c1b36052e8a8598a074be3d8b3a2969499df0c7401602800cfbe7b07e75d0346c4b01b5f324f636974076ec873e2d154062b78",
+      "hash_meta": "8e55900b67cd276892d06a580271e9912a219364c0c7996d15cdf1e4f7a68a6f",
+      "seqno": 22097099
+    },
+    "service": {
+      "entropy": "LvZOiyFA7u2lEOOb/KI2PcBj",
+      "hostname": "kyiv-token.digital",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.3"
+  },
+  "ctime": 1647452356,
+  "expire_in": 504576000,
+  "prev": "0d101911a4d8ba93313c0c478e3ec7def596aec43ff893d5bf44450436e69833",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl/Jruq2Ki0M6y06sFZRMfFE2m49+BIdObC/mSI34RS8Kp3BheWxvYWTESpcCB8QgDRAZEaTYupMxPAxHjj7H3vWWrsQ/+JPVv0RFBDbmmDPEIO6N7qd/ANO775e1miYDmAakdfHKQ385TnXNoa7J0kqqAgHCo3NpZ8RAKQ0mA4wb1PYRp64nhaFzRap4R+TWBnh21A6UF8LCzaqCn1mgkNsi5aNIy+r85xsOYnWnQRHM5Uue8dfw0EBVBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOA7glLkwy1lTj5FrNuOioFb7EUrAiYLWpyDMbdnWmJJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/belushkin
+
+==================================================================
