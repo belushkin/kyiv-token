@@ -5,18 +5,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="/KyivCoin600x600.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          KYIV token
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Support Ukrainian Armed Forces
+        </p>
+        <p>
+          All funds raised will be sent to the:
+        </p>
+        <a href="https://www.comebackalive.in.ua/" rel="noreferrer" target="_blank" className='App-link'>
+            Come Back Alive Foundation
+          </a>
       </header>
     </div>
   );
